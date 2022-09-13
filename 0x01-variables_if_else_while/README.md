@@ -4,3 +4,4 @@ program that prints the alphabet in lowercase
 program that prints all cases
 all letters except
 Prints all single digits of base 10
+prints all single digits of base 10
