@@ -3,3 +3,4 @@ This program will assign a random number to the variable n each time it is execu
 program that prints the alphabet in lowercase
 program that prints all cases
 all letters except
+Prints all single digits of base 10
