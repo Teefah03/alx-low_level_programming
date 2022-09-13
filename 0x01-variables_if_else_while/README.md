@@ -7,3 +7,4 @@ Prints all single digits of base 10
 prints all single digits of base 10
 Program to print alphabet letters in reverse
 Prints all single digits of base 16
+Prints all single digits with , and space
