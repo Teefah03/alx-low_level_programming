@@ -7,3 +7,4 @@ function that computes the absolute value of an integer
 function that prints the last digit of a number
 function that adds two integers and returns the result
 function that prints all natural numbers from n to 98
+program that prints _putchar
