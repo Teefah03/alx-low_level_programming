@@ -10,3 +10,4 @@ function that prints all natural numbers from n to 98
 program that prints _putchar
 function that prints the 9 times table, starting with 0
 function that prints every minute of the day
+times table
