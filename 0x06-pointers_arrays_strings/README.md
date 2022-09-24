@@ -9,3 +9,4 @@ function that encodes a string into 1337
 encodes a string using rot13
 Add one line
 function that adds two numbers
+function that prints a buffer
